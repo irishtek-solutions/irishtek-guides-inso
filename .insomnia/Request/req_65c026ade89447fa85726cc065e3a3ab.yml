@@ -1,0 +1,21 @@
+_id: req_65c026ade89447fa85726cc065e3a3ab
+type: Request
+parentId: fld_1e550b857d8040678d7a6023a94b09c6
+modified: 1694112906777
+created: 1694112356696
+url: "{{ _.protocol }}{{ _.host }}/"
+name: Nginx Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1694112356696
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

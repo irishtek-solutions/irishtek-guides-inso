@@ -1,0 +1,25 @@
+_id: req_36434d4f55c94a8c88cb0eebed4ba878
+type: Request
+parentId: fld_3bc8af93ca4948cf83948035a6a867e1
+modified: 1695245137972
+created: 1694120745276
+url: "{{ _.protocol }}{{ _.host }}/example/api"
+name: Nginx Request to Rewrite
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_4f0225d0019d406fa027d1bc945d1cd8
+    name: host
+    value: example.foo.com
+    description: ""
+authentication: {}
+metaSortKey: -1694120745276
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,10 @@
+_id: fld_1e550b857d8040678d7a6023a94b09c6
+type: RequestGroup
+parentId: fld_0696b4c1e5f24d67b5fe8c68a4628163
+modified: 1694112347001
+created: 1694112347001
+name: Setup Nginx Ingress Controller
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1694112347001

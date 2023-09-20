@@ -1,0 +1,18 @@
+_id: env_98af82021b7542e18cefbc2bb0bfd715
+type: Environment
+parentId: env_af65893ac7cc522fc11f2a636c27f311ca310b25
+modified: 1695245132371
+created: 1695245112707
+name: Nginx Environment
+data:
+  protocol: http://
+  scheme: https://
+  host: ""
+dataPropertyOrder:
+  "&":
+    - protocol
+    - scheme
+    - host
+color: null
+isPrivate: false
+metaSortKey: 1695245112707
